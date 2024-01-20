@@ -1,24 +1,18 @@
-# Política de Privacidad de FitWallet
+# FitWallet Privacy Policy
+> Last Updated: January 20, 2024
 
-> Última actualización: enero 20, 2024
+This application does not collect or store any type of personal user information. It operates entirely offline, and all interaction and data processing occur locally on the user's device.
 
-Esta aplicación no recopila ni almacena ningún tipo de información personal del usuario. Funciona completamente de manera offline, y toda la interacción y procesamiento de datos se lleva a cabo localmente en el dispositivo del usuario.
+### Data Collected:
+- No personally identifiable information is collected.
+- User activity tracking is not performed.
+- No data is transmitted outside the user's device.
+### Permissions Usage:
+This application does not require any additional permissions.
 
-### Datos Recopilados:
+Any changes to the privacy policy will be reflected in this section.
 
-- No se recopila información personal identificable.
-- No se realizan seguimientos de actividades del usuario.
-- No se envían datos fuera del dispositivo del usuario.
+###### Contact:
+If you have any questions or concerns about our privacy policy, you can contact us at fitwalletapp@gmail.com.
 
-### Uso de Permisos:
-
-Esta aplicación no requiere de ningún permiso adicional.
-
-Cualquier cambio en la política de privacidad se reflejará en esta sección.
-
-###### Contacto:
-
-Si tienes alguna pregunta o inquietud sobre nuestra política de privacidad, puedes ponerte en contacto con nosotros en fitwalletapp@gmail.com.
-
-*Gracias por utilizar FitWallet*
-
+**Thank you for using FitWallet**
